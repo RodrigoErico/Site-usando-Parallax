@@ -1,4 +1,5 @@
-# Site Parallax
+<h1 align="center">Site Parallax</h1>
+
 ## Veja o site *[aqui]()*.
 ### Contato: rodrigoerico25@gmail.com
 
