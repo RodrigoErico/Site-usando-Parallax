@@ -1,8 +1,5 @@
 ## Site Parallax
 ### Curso de Desenvolvimento Web Completo - [Udemy](https://www.udemy.com/course/web-completo/)
-
-### Projeto:
-
-### Para ver o site, clique [AQUI]().
+### Projeto: Clique [AQUI]().
 
 **email de contato: rodrigoerico25@gmail.com**
